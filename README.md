@@ -20,8 +20,6 @@ I'm a professional in Testnet and Airdrop strategies. I love exploring new block
 - [Twitter](https://x.com/AirdropIdn25)
 - [Telegram](https://t.me/FxcTe)
 
-## 🌱 A little more about me...
-
 
 
 
@@ -34,12 +32,35 @@ I'm a professional in Testnet and Airdrop strategies. I love exploring new block
 
 ```yaml
 name: Harun
-located_in: North Sumatera, Indonesia
-education: [
-  "Mahasiswa",
-  "Universitas Panca Budi"
-]
-hobbies: ["Exploring blockchain networks", "Participating in airdrops", "Reading about DeFi"]
+located_in: Pangkalan Berandan, Indonesia
+education: 
+  - "Bachelor's Degree in Computer Science, UNIVERSITAS ?? (Expected Graduation: Year)"
+  - "Certification in Blockchain Technologies, Online Course Platform"
+  
+hobbies: 
+  - "Exploring blockchain testnets"
+  - "Participating in airdrops"
+  - "Reading about decentralized finance (DeFi)"
+  - "Coding smart contracts"
+  
+goals: 
+  - "Contribute to open-source blockchain projects"
+  - "Become a recognized expert in the blockchain community"
+  - "Secure internships with leading blockchain companies"
+  
+achievements:
+  - "Completed over 50 testnet projects"
+  - "Received airdrops from more than 30 different blockchain projects"
+  - "Active member of blockchain and cryptocurrency student organizations"
+  
+currently_learning: 
+  - "Advanced Solidity programming"
+  - "Zero-knowledge proofs and their applications in blockchain"
+  - "Interoperability solutions for blockchain networks"
+  
+favorite_quote: 
+  - "\"The future belongs to those who believe in the beauty of their dreams.\" - Eleanor Roosevelt"
+
 
 
   
