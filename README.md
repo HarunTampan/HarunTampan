@@ -20,11 +20,26 @@ I'm a professional in Testnet and Airdrop strategies. I love exploring new block
 - [Twitter](https://x.com/AirdropIdn25)
 - [Telegram](https://t.me/FxcTe)
 
+## 🌱 A little more about me...
+
 
 
 
 ![GitHub followers](https://img.shields.io/github/followers/HarunTampan?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/HarunTampan?style=social)
+
+
+
+## 🌱 A little more about me...
+
+```yaml
+name: Harun
+located_in: North Sumatera, Indonesia
+education: [
+  "Mahasiswa",
+  "Universitas Panca Budi"
+]
+hobbies: ["Exploring blockchain networks", "Participating in airdrops", "Reading about DeFi"]
 
 
   
