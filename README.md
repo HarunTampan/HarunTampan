@@ -20,7 +20,6 @@ I'm a professional in Testnet and Airdrop strategies. I love exploring new block
 - [Twitter](https://x.com/AirdropIdn25)
 - [Telegram](https://t.me/FxcTe)
 
-![GitHub followers](https://img.shields.io/github/followers/HarunTampan?style=social)
 
 
 
